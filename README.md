@@ -1,6 +1,6 @@
 # for-ml
 # Fake vs Real Voice Classification Project
-
+This project has been submitted for the course ECSE 6410: Pattern Recognition at UGA in Fall 2024.
 ## Project Structure
 
 ### Objective
